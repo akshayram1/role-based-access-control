@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Ignore .env file that might contain sensitive information
+.env
+
+# Ignore app2.py (if you don't want it tracked)
+app2.py
+
+app3.py
