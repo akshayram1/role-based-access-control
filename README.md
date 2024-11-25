@@ -15,9 +15,11 @@ A Role-Based Access Control (RBAC) web application built with Streamlit, MongoDB
 ![Login Screen](/screenshots/login.png)
 ### Login Dashboard
 ![Login ](/screenshots/login2.png)
+### Moderator Dashboard
+![moderator ](/screenshots/moderator.png)
 
 ### Admin Dashboard
-![Admin Dashboard](/screenshots/admin_dashboard.png)
+![Admin Dashboard](/screenshots/admin.png)
 
 ### User Logs
 ![User Logs](/screenshots/user_logs.png)
