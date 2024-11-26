@@ -10,27 +10,7 @@ A Role-Based Access Control (RBAC) web application built with Streamlit, MongoDB
 - Admin dashboard for user role management
 - Comprehensive audit logging system
 
-## Screenshots
-### Login Page
-![Login Screen](/screenshots/login.png)
-### Login Dashboard
-![Login ](/screenshots/login2.png)
-### Moderator Dashboard
-![moderator ](/screenshots/moderator.png)
 
-### Admin Dashboard
-![Admin Dashboard](/screenshots/admin.png)
-
-### User Logs
-![User Logs](/screenshots/user_logs.png)
-### Flow Diagram
-![Flow Diagram](/screenshots/flowdiagram.png)### Flow Diagram
-![Flow Diagram](/screenshots/diagram.png)
-
-### mongodb 
-![mongodb](/screenshots/1.png)
-![mongodb](/screenshots/2.png)
-![mongodb](/screenshots/3.png)
 
 
 
@@ -62,6 +42,28 @@ A Role-Based Access Control (RBAC) web application built with Streamlit, MongoDB
 - **User**: Can view own login logs
 - **Moderator**: Can view all system logs
 - **Admin**: Can manage user roles and view all logs
+## Screenshots
+### Login Page
+![Login Screen](/screenshots/login.png)
+### Login Dashboard
+![Login ](/screenshots/login2.png)
+### Moderator Dashboard
+![moderator ](/screenshots/moderator.png)
+
+### Admin Dashboard
+![Admin Dashboard](/screenshots/admin.png)
+
+### User Logs
+![User Logs](/screenshots/user_logs.png)
+### Flow Diagram
+![Flow Diagram](/screenshots/flowdiagram.png)### Flow Diagram
+![Flow Diagram](/screenshots/diagram.png)
+
+### mongodb 
+![mongodb](/screenshots/1.png)
+![mongodb](/screenshots/2.png)
+![mongodb](/screenshots/3.png)
+
 
 ## Security Features
 - Password hashing with bcrypt
