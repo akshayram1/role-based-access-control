@@ -24,7 +24,16 @@ A Role-Based Access Control (RBAC) web application built with Streamlit, MongoDB
 ### User Logs
 ![User Logs](/screenshots/user_logs.png)
 ### Flow Diagram
-![Flow Diagram](/screenshots/flowdiagram.png)
+![Flow Diagram](/screenshots/flowdiagram.png)### Flow Diagram
+![Flow Diagram](/screenshots/diagram.png)
+
+### mongodb 
+![mongodb](/screenshots/1.png)
+![mongodb](/screenshots/2.png)
+![mongodb](/screenshots/3.png)
+
+
+
 
 ## Prerequisites
 - Python 3.8+
